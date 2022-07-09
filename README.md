@@ -2,6 +2,8 @@
 I made a small project  creating own chrome extension 
 # Output 
 
-![Uploading New Tab - Google Chrome 7_9_2022 11_21_00 PM.png…]()
-![New Tab - Google Chrome 7_9_2022 9_33_12 PM](https://user-images.githubusercontent.com/108994368/178117373-6585ff56-70ae-4aa8-9b4c-87e2df7d387e.png)
-![New Tab - Google Chrome 7_9_2022 11_23_30 PM](https://user-images.githubusercontent.com/108994368/178117377-595212e6-2462-4e64-a58c-dd48829e3a8b.png)
+
+![New Tab - Google Chrome 7_9_2022 11_21_00 PM](https://user-images.githubusercontent.com/108994368/178117423-622f3c7e-4bc5-42af-a566-d95da2624959.png)
+![New Tab - Google Chrome 7_9_2022 11_23_30 PM](https://user-images.githubusercontent.com/108994368/178117426-0fd70ae1-4b52-4e9c-baa0-9356a910cde3.png)
+![New Tab - Google Chrome 7_9_2022 11_23_30 PM](https://user-images.githubusercontent.com/108994368/178117460-e0968d6c-ac95-4c93-b041-cef09fa3091b.png)
+
